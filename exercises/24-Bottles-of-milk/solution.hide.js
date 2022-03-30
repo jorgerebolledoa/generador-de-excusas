@@ -8,6 +8,3 @@ function song(){
             console.log(`${i} bottles of milk on the wall, ${i} bottles of milk. Take one down and pass it around, ${i-1} bottles of milk on the wall.`);
         }
     }
-}
-
-song()

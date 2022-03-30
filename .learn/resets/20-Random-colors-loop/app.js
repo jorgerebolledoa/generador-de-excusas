@@ -17,15 +17,8 @@ function getColor(colorNumber=0)
 }
 
 function getAllStudentColors(){
-	var i=0
-	while(i<10)
-	{
-	var av=Math.floor(Math.random() * (5 - 1)) + 1; 
-	getColor (av) 
-	console.log(getColor(av))
-	i++;
-	console.log('uwu'+ i)
-	}
+	
+	//your loop here
 	var exampleColor = getColor(1);
 }
 
